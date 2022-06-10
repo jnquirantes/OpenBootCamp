@@ -28,8 +28,8 @@ public class Trabajador extends Persona {
 		return salario;
 	}
 	
-	public void setSalario(double credito) {
-		this.salario = credito;
+	public void setSalario(double salario) {
+		this.salario = salario;
 	}
 
 }
