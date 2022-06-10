@@ -62,16 +62,13 @@ public class Estructuras {
 			break;
 			
 			case 4:
-				System.out.println("Es otoÃ±o");
+				System.out.println("Es otoño");
 			break;
 			
 			default:
-				System.out.println("El nÚmero no corresponde con ninguna estaciÃ³n");
+				System.out.println("El nÚmero no corresponde con ninguna estación");
 			break;
 		}
-		
-		
-
 	}
 
 }
