@@ -10,7 +10,7 @@ public class Trabajador extends Persona {
 		
 		System.out.println("El trabajador se llama " + t1.getNombre() +
 				". Tiene " + t1.getEdad() + " años y su teléfono es " + t1.getTelefono() +
-				". Además posee un crédito de " + t1.getSalario() + "€");
+				". Además posee un salario de " + t1.getSalario() + "€");
 
 	}
 	
