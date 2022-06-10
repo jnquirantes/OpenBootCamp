@@ -24,6 +24,7 @@ public class Coche {
 		Coche miCoche = new Coche(4);
 		miCoche.aumentarPuertas();
 		System.out.println(miCoche.getPuertas());
+		
 	}
 	
 	

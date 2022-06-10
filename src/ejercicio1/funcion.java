@@ -11,10 +11,9 @@ public class funcion {
 	}
 	
 	public static double sumaNumeros(double a, double b, double c) {
-		
 		double result = a + b + c;
-		
 		return result;
+		
 	}
 
 
